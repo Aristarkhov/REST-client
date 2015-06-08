@@ -1,3 +1,4 @@
+//specs demonstrate client behavour
 describe('chatterbox', function() {
   it('should parse correctly and have an object named `app`', function(){
     expect(app).to.be.an('object');
